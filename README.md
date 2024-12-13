@@ -1,5 +1,4 @@
-# -
-𝗔𝗜 𝗚𝗣𝗧 𝗔𝗗𝗩𝗔𝗡𝗖𝗘𝗗 𝗧𝗢𝗢𝗟🌚🫶
+# 𝗔𝗜 𝗚𝗣𝗧 𝗔𝗗𝗩𝗔𝗡𝗖𝗘𝗗 𝗧𝗢𝗢𝗟🌚🫶
 
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=AI%20GPT&fontSize=90&animation=fadeIn&fontAlignY=38&desc=PYTHON%20TOOLS%20AND%20SCRIPT%MADE%20BY%20XYLON!&descAlignY=51&descAlign=62" width="100%"/>
 
@@ -31,17 +30,17 @@
 ```python
 rm -rf AI-GPT
 git clone https://github.com/Xylon-404/AI-GPT.git
-cd FB-BRUTE-FORCE
+cd AI-GPT
 python ⌥⁣ᎪᎥᯓ᯽GᖘƬ✌︎.py
 ```
 
 #### USERNAME 
 
-https://t.me/Abdullha_404/875
+https://t.me/Abdullha_404/985?single
 
 #### Password 
 
-https://t.me/Abdullha_404/875
+https://t.me/Abdullha_404/985?single
 
 # Give A Star ⭐
 
